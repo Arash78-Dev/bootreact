@@ -1,0 +1,18 @@
+.hover:hover{
+    color: red !important;
+}
+.hover{
+    color: gray !important;
+}
+.hover1:hover{
+    opacity: 1 !important;
+}
+.hover1{
+    color: white !important;
+    opacity: 0.6;
+
+}
+
+.shadow-me{
+    box-shadow: 2px 0px 10px 2px black;
+}
